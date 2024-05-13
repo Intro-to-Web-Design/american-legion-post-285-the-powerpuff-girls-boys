@@ -10,3 +10,42 @@ Fonts
 Roboto Slab (Headings)
 Avenir (Body)
 */
+
+h2 {
+    font-family: "Roboto Slab", serif; 
+    color: #1b3d6dff;
+    
+  }
+  
+  body {
+    font-family: Avenir, sans-serif;
+    background-color: #efeccaff;
+  }
+  
+  #american_legion_family {
+    border-style: dashed;
+    text-align: center;
+    float: center;
+  }
+  
+  #upcoming_events {
+    float: left;
+    margin: 2% 10px 10px 20%;
+    border-style: dashed;
+    position: absolute;
+  }
+  
+  #latest_news {
+    float: left;
+    margin: 2% 10px 10px 70%;
+    border-style: dashed;
+  
+  }
+  
+  #veterans_memorial {
+    border-style: dashed;
+    float: center;
+    text-align: center;
+    margin: 15% 30% 10px 30%;
+  
+  }

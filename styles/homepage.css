@@ -22,6 +22,12 @@ h2 {
     background-color: #efeccaff;
   }
   
+  #carousel {
+    border-style: dashed;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
   #american_legion_family {
     border-style: dashed;
     text-align: center;
@@ -49,3 +55,4 @@ h2 {
     margin: 15% 30% 10px 30%;
   
   }
+  

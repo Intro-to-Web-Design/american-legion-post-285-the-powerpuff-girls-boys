@@ -11,16 +11,18 @@ Roboto Slab (Headings)
 Avenir (Body)
 */
 
+body {
+  font-family: Avenir, sans-serif;
+
+}
+
 h2 {
     font-family: "Roboto Slab", serif; 
     color: #1b3d6dff;
     
   }
   
-  body {
-    font-family: Avenir, sans-serif;
-    background-color: #efeccaff;
-  }
+
   
   #carousel {
     border-style: dashed;
@@ -39,12 +41,14 @@ h2 {
     margin: 2% 10px 10px 20%;
     border-style: dashed;
     position: absolute;
+    background-color: #efeccaff;
   }
   
   #latest_news {
     float: left;
     margin: 2% 10px 10px 70%;
     border-style: dashed;
+    background-color: #efeccaff;
   
   }
   

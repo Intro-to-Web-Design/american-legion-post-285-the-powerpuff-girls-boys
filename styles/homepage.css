@@ -53,6 +53,35 @@ h2 {
 
 }
 
+nav {
+    clear: left;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    float: left;
+    margin-right: 0.5em;
+}
+
+nav ul li a {
+    padding: 0.25em 1em;
+    text-decoration: none;
+    /* no underline */
+    background-color: #efeccaff;
+    /* pale bluish white */
+    color: #d72131ff;
+    /* dark blue */
+    border: 2px solid black;
+    border-top-left-radius: 1em 1em;
+    /* rounded corner! */
+    border-top-right-radius: 1em 1em;
+    /* another rounded corner! */
+}
+
+
 #header {
   background-color: white;
   border-style: dashed;
